@@ -16,3 +16,13 @@ Adres Ekle sayfasındaki işlemleri AJAX ile yapmaktayız. Örneğin; ili seçti
 Mahalleyi seçince o mahallenin posta kodunu APi'den çektik. https://api.ubilisim.com/postakodu/il/34
 Proje gelişmeye açık olup zaman buldukça yeni sayfalar ya da yeni özellikler eklenecektir.
 Ekran resimleri ve kaynak kodlardan bir parça aşağıda görebilirsiniz .
+
+
+![1](https://user-images.githubusercontent.com/120444709/219598336-56c840a1-005e-4ee9-bcaf-f9d9ce04f9d9.png)
+![2](https://user-images.githubusercontent.com/120444709/219598385-13eadfd2-06d4-4cbb-be2a-23d6cc7cedff.png)
+![3](https://user-images.githubusercontent.com/120444709/219598399-c69d9895-3337-42cb-8efc-6b8bed6eb453.png)
+![5](https://user-images.githubusercontent.com/120444709/219598418-2f5b06fe-c4fd-4541-9600-7c859a6a1eee.png)
+![6](https://user-images.githubusercontent.com/120444709/219598433-ad43bb43-6a4a-4999-937d-844bfa2e9078.png)
+![7](https://user-images.githubusercontent.com/120444709/219598450-94cab1d6-5ff4-4623-8f8f-27cb0e1aed8f.png)
+![9](https://user-images.githubusercontent.com/120444709/219598457-8ecbbd81-3b1a-4e2d-93a0-15cb5acb3208.png)
+
